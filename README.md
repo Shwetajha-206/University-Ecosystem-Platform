@@ -11,34 +11,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-- [About the Project](#-about-the-project)
-- [Problem Statement](#-problem-statement)
-- [Our Solution](#-our-solution)
-- [Objectives](#-objectives)
-- [Core Modules](#-core-modules)
-- [Key Features](#-key-features)
-- [User Roles](#-user-roles)
-- [System Workflow](#-system-workflow)
-- [Application Architecture](#-application-architecture)
-- [Technology Stack](#-technology-stack)
-- [Project Structure](#-project-structure)
-- [Database Design](#-database-design)
-- [Authentication & Security](#-authentication--security)
-- [Getting Started](#-getting-started)
-- [Environment Variables](#-environment-variables)
-- [Running the Project](#-running-the-project)
-- [Git Workflow](#-git-workflow)
-- [Deployment](#-deployment)
-- [API Overview](#-api-overview)
-- [Future Scope](#-future-scope)
-- [Impact](#-expected-impact)
-- [Contributing](#-contributing)
-- [License](#-license)
-
----
-
 # 📖 About the Project
 
 Students in universities and colleges regularly face problems related to academics, infrastructure, administration, canteens, sports facilities, finance, identity cards, and career preparation.
