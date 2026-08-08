@@ -4,7 +4,7 @@ import { LayoutDashboard, AlertTriangle, Menu, LogOut, Users, Megaphone, Shield,
 import { useAuth } from '../context/AuthContext'
 import { useRoutePage } from '../hooks/useRoutePage'
 import Dashboard from '../pages/Dashboard'
-import Complaints from '../pages/Complaints'
+import Complaints from '../pages/complaints'
 import Announcements from '../pages/Announcements'
 import CRGrievances from '../pages/CRGrievances'
 import CRClassHub from '../pages/CRClassHub'
