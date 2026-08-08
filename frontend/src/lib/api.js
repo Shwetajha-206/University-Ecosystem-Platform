@@ -1,5 +1,5 @@
 /** Relative API base — Vite/nginx proxy keeps cookies same-origin in dev & prod */
-export const API = '/api'
+export const API = 'https://university-ecosystem-backend.onrender.com/api'
 
 let refreshPromise = null
 
