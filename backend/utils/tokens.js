@@ -42,7 +42,7 @@ function setAuthCookies(res, accessToken, refreshToken) {
   const common = {
     httpOnly: true,
     secure: isProd,
-    sameSite: isProd ? 'strict' : 'lax',
+    sameSite: isProd ? 'none' : 'lax',
   }
 
   res.cookie('accessToken', accessToken, {
